@@ -18,3 +18,5 @@ function isValid(s) {
 
 s = '{[()]}'
 console.log(isValid(s)) // true
+
+//Time Complexity: O(n) and Space Complexity: O(n)
